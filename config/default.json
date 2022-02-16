@@ -2,8 +2,8 @@
     "db-connections": {
         "mongodb": {
             "host": "cluster0-lqcr6.mongodb.net",
-            "user": "acad_rest_api_user",
-            "password": "sMJA8V2RpmWUNJLG",
+            "user": "medication_rest_api",
+            "password": "LZtCJ46PA4nwAKHI",
             "dbname": "AcademicDB"
         }
     },
